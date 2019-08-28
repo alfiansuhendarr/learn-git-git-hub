@@ -1,5 +1,5 @@
 Belajar Git / Git-Hub
-1. Konsisten untuk Belajar minimal 1 hari 2 video
-2. Membuat platform untuk belajar
-3. Membuat forum belajar
-4. Melakukan Kolaborasi sesama pengguna git
+- Konsisten untuk Belajar minimal 1 hari 2 video
+- Membuat platform untuk belajar
+- Melakukan Kolaborasi sesama pengguna git
+- Mengadakan event
