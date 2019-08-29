@@ -4,6 +4,7 @@ renacan konten git
   * ES6
   * Framework Javascript 6
    ^ Vue
+   ^ react
 - struktur data dasar
 - php frameworks
    ^ Laravel
