@@ -2,10 +2,12 @@ renacan konten git
 
 - javarscript 
   * ES6
-  * Framework Javascript 6
-    ^ Angular
-    ^ React
+  * Framework Javascript
+   ^ Vue
+   ^ react
+- struktur data dasar
 - php frameworks
-    ^ Laravel
+   ^ Laravel
 - interview
 - vlogs
+- python
