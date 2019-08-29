@@ -3,6 +3,7 @@ renacan konten git
 - javarscript 
   * ES6
   * Framework Javascript 6
-- pgp frameworks
+- struktur data dasar
+- php frameworks
 - interview
 - vlogs
