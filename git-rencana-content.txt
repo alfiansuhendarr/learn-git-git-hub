@@ -2,7 +2,7 @@ renacan konten git
 
 - javarscript 
   * ES6
-  * Framework Javascript 6
+  * Framework Javascript
    ^ Vue
    ^ react
 - struktur data dasar
