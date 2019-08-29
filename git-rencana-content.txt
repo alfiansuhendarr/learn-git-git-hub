@@ -1,6 +1,8 @@
 renacan konten git
 
 - javarscript 
+  * ES6
+  * Framework Javascript 6
 - pgp frameworks
 - interview
 - vlogs
